@@ -22,8 +22,8 @@ The data and idea for this project were inspired by a video from the YouTube cha
 * Ensured that all date columns loaded properly
 * Since Power Query tasks were handled in MySQL, I proceeded directly to analysing the data
 * Created calculated columns and measures using DAX
-* Created Visuals based on my newly created columns
-* Formatted my dashboards to my preferences
+* Created dashboard tailored to my needs using columns and measures
+* Formatted my dashboards
 * The .pbix file as well as PDF dashboards are also attached in this repo! 
 
 ## This is the end of this project, I hope you enjoyed it as much as I did! 
