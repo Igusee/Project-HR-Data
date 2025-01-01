@@ -1,6 +1,6 @@
 # HR data Project 
 
-Data and idea was based on video from YT channel Her Data Project. 
+The data and idea for this project were inspired by a video from the YouTube channel Her Data Project.
 
 ## About my data: 
 * Over 20K distinct records of employees in .csv format
